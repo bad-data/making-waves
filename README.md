@@ -1,6 +1,6 @@
 # making-waves
 
-This repository holds a file containing the code on how the KSU Hitchbot's arm waves whenover an object apporaches.
+This repository holds a file containing the code on how the KSU Hitchbot's arm waves whenever an object apporaches.
 This is powered by a servo and an ultrasonic sensor and can be built upon in the future.
 
 ## Upload to Arduino
